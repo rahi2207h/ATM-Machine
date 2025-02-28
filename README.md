@@ -1,4 +1,4 @@
-#ATM Machine
+ <h1>ATM Machine</h1>
  the frontend components of a simple ATM machine simulation, implemented using HTML, CSS, and JavaScript. The ATM interface allows users to check their balance, deposit money, and withdraw money through an interactive interface.
  
  1. HTML (Structure)
@@ -17,7 +17,7 @@ Key Elements:
 
 <div class="container">: A wrapper element that helps center the content on the page.
 <div class="box">: A box inside the container that contains the main ATM content.
-<h1>ATM Machine</h1>: A heading displaying the title of the ATM machine interface.
+: A heading displaying the title of the ATM machine interface.
 <div id="menu">: A menu that contains the three interactive buttons:
 Check Balance: Button to check the user's current account balance.
 Deposit Money: Button to deposit money into the account.
