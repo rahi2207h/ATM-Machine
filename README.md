@@ -12,10 +12,10 @@ Withdraw Money
 A <div id="result"> to display the result of any action taken.
 External Resources:
   
-#CSS: A style.css file is linked to style the page and elements (not provided in the HTML).
+CSS: A style.css file is linked to style the page and elements (not provided in the HTML).
 JavaScript: A script.js file is linked for the functionality of the buttons (e.g., checking balance, depositing, or withdrawing money). The JavaScript is expected to handle the logic behind these actions when a user interacts with the buttons.
   
-#JavaScript (Functionality)
+JavaScript (Functionality)
 The JavaScript provides the interactive functionality behind the ATM machine. It defines the logic for checking the balance, depositing money, and withdrawing money.
 
 Key Functions:
